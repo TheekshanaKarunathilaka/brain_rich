@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150039039659",
+    "project_id": "brainrich-2a21e",
+    "storage_bucket": "brainrich-2a21e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150039039659:android:a0fa48fcdc6615304c71ee",
+        "android_client_info": {
+          "package_name": "com.example.brain_rich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIKa1s_xO5gbiFC-hTCkXIoBar8C4qZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

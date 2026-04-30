@@ -1,0 +1,7 @@
+# Protected files - only leader can change these
+lib/main.dart @TheekshanaKarunathilaka
+lib/firebase_options.dart @TheekshanaKarunathilaka
+lib/services/auth_service.dart @TheekshanaKarunathilaka
+lib/utils/constants.dart @TheekshanaKarunathilaka
+pubspec.yaml @TheekshanaKarunathilaka
+pubspec.lock @TheekshanaKarunathilaka
